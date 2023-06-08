@@ -1,0 +1,24 @@
+{
+    "void": {
+        "charge": {
+            "international": 0,
+            "domstic": 0
+        },
+        "before": true
+    },
+    "_id": "6310dac4f6d872c99364b7fb",
+    "name": "Air Serbia",
+    "code": "JU",
+    "logo": "upload/aircontrol/JU.png",
+    "autoCancelTime": 0,
+    "bookingTime": 0,
+    "changeFee": 0,
+    "chargeOfAmount": "0",
+    "api": [
+        "amadeus",
+        "flyhub"
+    ],
+    "ait": 0,
+    "createdAt": "2022-09-01T16:16:04.606Z",
+    "updatedAt": "2022-09-01T16:16:04.606Z"
+}
